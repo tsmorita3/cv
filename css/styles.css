@@ -1,0 +1,28 @@
+body {
+  background-color: #e3fdfd;
+}
+
+hr {
+  background-color: #e3fdfd;
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  width: 20%;
+}
+
+img {
+  height: 230px;
+}
+
+h1 {
+  color: #71c9ce;
+}
+
+h3 {
+  color: #a6e3e9;
+}
+
+.Profile {
+  border-radius: 100%;
+}
